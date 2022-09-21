@@ -1,0 +1,69 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fname": "john",
+      "lname": "morrison",
+      "gender": "male",
+      "languages": [
+        "English"
+      ],
+      "course": "Python"
+    },
+    {
+      "id": 2,
+      "fname": "Steve",
+      "lname": "Harvey",
+      "gender": "male",
+      "languages": [
+        "Marathi",
+        "Hindi",
+        "English"
+      ],
+      "course": "c"
+    },
+    {
+      "fname": "John",
+      "lname": "Thompson",
+      "gender": "male",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "course": "c++",
+      "id": 3
+    },
+    {
+      "fname": "demo",
+      "lname": "demo",
+      "gender": "male",
+      "languages": [
+        "Marathi"
+      ],
+      "course": "Python",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "fname": "qwerty",
+      "lname": "qwerty",
+      "gender": "male",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "course": "JavaScript"
+    },
+    {
+      "fname": "Nouman",
+      "lname": "Kazi",
+      "gender": "male",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "course": "Java",
+      "id": 8
+    }
+  ]
+}
